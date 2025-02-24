@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-kamrul-jaman-r-602764203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-kamrul-jaman-r-602764203" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-kamrul-jaman-r-602764203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-kamrul-jaman-rabbi" height="30" width="40" /></a>
 </p>
 
 <!--  Languages and Tools I Use -->
@@ -60,6 +60,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdkamruljaman&show_icons=true&locale=en&layout=compact" alt="mdkamruljaman" /></p>
 
-<p><img align="center" src="https://github.com/MDkamrulJaman/MDkamrulJaman/blob/main/Organizer%20of%20Robotics%20Workshop.jpg?raw=true" alt="Organizer of Robotics Workshop " /></p>
+<p><img align="center" width="30" height="50"> src="https://github.com/MDkamrulJaman/MDkamrulJaman/blob/main/Organizer%20of%20Robotics%20Workshop.jpg?raw=true" alt="Organizer of Robotics Workshop " /></p>
 
 
