@@ -59,7 +59,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdkamruljaman&show_icons=true&locale=en&layout=compact" alt="mdkamruljaman" /></p>
-
-<p><img align="center" width="200" height="300"> src="https://github.com/MDkamrulJaman/MDkamrulJaman/blob/main/Organizer%20of%20Robotics%20Workshop.jpg?raw=true" alt="Organizer of Robotics Workshop " /></p>
+</br>
+<p><img align="center"> src="https://github.com/MDkamrulJaman/MDkamrulJaman/blob/main/Organizer%20of%20Robotics%20Workshop.jpg?raw=true" alt="Organizer of Robotics Workshop " /></p>
 
 
