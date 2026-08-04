@@ -23,6 +23,6 @@ BEng. Autonomous Vehicle Engineering student at Technische Hochschule Ingolstadt
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=MDkamrulJaman&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
