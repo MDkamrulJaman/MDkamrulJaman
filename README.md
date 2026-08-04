@@ -2,16 +2,15 @@
 <h1 align="center">Hi 👋, I'm Md Kamrul Jaman</h1>
 <h3 align="center">"Entangled Intelligence: When Quantum Meets Superintelligence</h3>
 # 💫 About Me:
+BEng. Autonomous Vehicle Engineering student at Technische Hochschule Ingolstadt. Open to new opportunities to collaborate and work on meaningful projects. Computer Vision & AI Engineer passionate about building intelligent systems that bridge research and production. I specialize in deep learning architectures for visual perception, scalable backend systems, and cloud-native infrastructure.<br><br>
 
-Computer Vision & AI Engineer passionate about building intelligent systems that bridge research and production. I specialize in deep learning architectures for visual perception, scalable backend systems, and cloud-native infrastructure.<br><br>🔭 I'm currently working on research and development of computer vision models for real-world deployment, focusing on model efficiency and production-grade inference pipelines.Computer Vision & AI Engineer passionate about building intelligent systems that bridge research and production. I specialize in deep learning architectures for visual perception, scalable backend systems, and cloud-native infrastructure.
-
-- 🌱 I'm currently learning **Machine Learning**
-- 👨‍💻 All of my projects are available at [https://mdkamruljaman.netlify.app/](https://mdkamruljaman.netlify.app/)
+- 🌱 I'm currently learning **Machine Learning*Computer Vision, Natural Language Processing, AI Algorithms, Databases and DevOps.*
+- 👨‍💻 All of my projects are available at [https://mdkamruljaman.netlify.app/](https://mdkamruljaman.netlify.app/).
 - 🤝 I'm looking for help with optimizing distributed training pipelines and exploring novel architectures for edge AI deployment.
-- 💬 Ask me about **computer vision, GenAI, deep learning architectures, backend system design**
-- 📫 How to reach me **mdkamruljamanjk@gmail.com**
-- ⚡ Fun fact that I enjoy turning research papers into production-ready systems—there's nothing like watching a model go from a Jupyter notebook to serving real users at scale
-
+- 💬 Ask me about **computer vision, GenAI, deep learning architectures, backend system design.**
+- 📫 How to reach me **mdkamruljamanjk@gmail.com.**
+- ⚡ Fun fact that I enjoy turning research papers into production-ready systems.
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-kamrul-jaman-rabbi) 
 
@@ -28,4 +27,4 @@ Computer Vision & AI Engineer passionate about building intelligent systems that
 ---
 [![](https://komarev.com/ghpvc/?username=MDkamrulJaman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
