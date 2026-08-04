@@ -1,7 +1,8 @@
 <!--  Main -->
 <h1 align="center">Hi 👋, I'm Md Kamrul Jaman</h1>
 <h3 align="center">"Entangled Intelligence: When Quantum Meets Superintelligence</h3>
-# 💫 About Me: <br>
+
+💫 About Me: <br>
 
 BEng. Autonomous Vehicle Engineering student at Technische Hochschule Ingolstadt. Open to new opportunities to collaborate and work on meaningful projects. Computer Vision & AI Engineer passionate about building intelligent systems that bridge research and production. I specialize in deep learning architectures for visual perception, scalable backend systems, and cloud-native infrastructure.<br>
 
