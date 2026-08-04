@@ -7,14 +7,10 @@ Computer Vision & AI Engineer passionate about building intelligent systems that
 
 - 🌱 I'm currently learning **Machine Learning**
 - 👨‍💻 All of my projects are available at [https://mdkamruljaman.netlify.app/](https://mdkamruljaman.netlify.app/)
-- 📝 I regularly write articles on [https://mdkamruljaman.netlify.app/portfolio](https://mdkamruljaman.netlify.app/portfolio)
-- 💬 Ask me about **Python**
+- 🤝 I'm looking for help with optimizing distributed training pipelines and exploring novel architectures for edge AI deployment.
+- 💬 Ask me about **computer vision, GenAI, deep learning architectures, backend system design**
 - 📫 How to reach me **mdkamruljamanjk@gmail.com**
-- 📄 Know about my experiences [https://mdkamruljaman.netlify.app/experience](https://mdkamruljaman.netlify.app/experience)
-
-
-<br><br>🔭 I'm currently working on research and development of computer vision models for real-world deployment, focusing on model efficiency and production-grade inference pipelines.<br><br>👯 I'm looking to collaborate on open-source computer vision and MLOps projects, especially tools that simplify deploying AI models at scale.<br><br>🤝 I'm looking for help with optimizing distributed training pipelines and exploring novel architectures for edge AI deployment.<br><br>🌱 I'm currently learning advanced Kubernetes orchestration patterns and cloud-native ML infrastructure (MLOps, model serving at scale).<br><br>💬 Ask me about computer vision, deep learning architectures, backend system design, Docker/Kubernetes, AWS cloud infrastructure, or open-source contributions.<br><br>⚡ Fun fact that I enjoy turning research papers into production-ready systems—there's nothing like watching a model go from a Jupyter notebook to serving real users at scale
-
+- ⚡ Fun fact that I enjoy turning research papers into production-ready systems—there's nothing like watching a model go from a Jupyter notebook to serving real users at scale
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-kamrul-jaman-rabbi) 
