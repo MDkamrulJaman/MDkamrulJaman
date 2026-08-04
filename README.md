@@ -6,7 +6,7 @@
 
 Autonomous Vehicle Engineering(BEng.) student at Technische Hochschule Ingolstadt. Open to new opportunities to collaborate and work on meaningful projects. Computer Vision & AI Engineer passionate about building intelligent systems that bridge research and production. I specialize in deep learning architectures for visual perception, scalable backend systems, and cloud-native infrastructure.<br>
 
-- 🌱 I'm currently learning **Machine Learning*Computer Vision, Natural Language Processing, AI Algorithms, Databases and DevOps**.
+- 🌱 I'm currently learning Computer Vision, Natural Language Processing, AI Algorithms, Databases and DevOps.
 - 👨‍💻 All of my projects are available at [https://mdkamruljaman.netlify.app/](https://mdkamruljaman.netlify.app/).
 - 🤝 I'm looking for help with optimizing distributed training pipelines and exploring novel architectures for edge AI deployment.
 - 💬 Ask me about **computer vision, GenAI, deep learning architectures, backend system design.**
